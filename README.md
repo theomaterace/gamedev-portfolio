@@ -27,3 +27,10 @@ Jeśli chcesz, możesz śledzić moje postępy tutaj i na itch.io.
 
 📫 Kontakt: [thematerace@gmail.com]  
 🌐 itch.io: https://theomaterace.itch.io
+
+
+## Postępy
+
+### 21 czerwca 2025
+
+Opracowano szczegółowy, 13-tygodniowy plan realizacji gry „Secure the Server 2D”, obejmujący jasno zdefiniowane cele tygodniowe, harmonogram działań oraz etapy testów i zbierania opinii. Plan uwzględnia fazę feedbacku oraz wskazania do iteracyjnego rozwoju projektu.
