@@ -28,12 +28,3 @@ Jeśli chcesz, możesz śledzić moje postępy tutaj i na itch.io.
 📫 Kontakt: [thematerace@gmail.com]  
 🌐 itch.io: https://theomaterace.itch.io
 
-
-## Postępy
-
-### 21 czerwca 2025
-Opracowano szczegółowy, 13-tygodniowy plan realizacji gry „Secure the Server 2D”, obejmujący jasno zdefiniowane cele tygodniowe, harmonogram działań oraz etapy testów i zbierania opinii. Plan uwzględnia fazę feedbacku oraz wskazania do iteracyjnego rozwoju projektu.
-
-Przerobiono kolejny temat w ramach kursu C# dla początkujących – moduł 30: Struktury. Zgłębiono podstawy użycia struktur (`struct`), ich składnię, zastosowania i różnice względem klas.
-
-Zrealizowano moduł „Offensive Security Intro” w ramach ścieżki edukacyjnej „Cyber Security 101” na platformie TryHackMe. Zapoznano się z podstawowymi koncepcjami ofensywnego bezpieczeństwa, co stanowi bazę do tworzenia realistycznych scenariuszy gier edukacyjnych.
